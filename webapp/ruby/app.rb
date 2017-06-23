@@ -2,6 +2,7 @@ require 'sinatra/base'
 require 'mysql2'
 require 'rack-flash'
 require 'shellwords'
+#require "line-profile"
 
 module Isuconp
   class App < Sinatra::Base
