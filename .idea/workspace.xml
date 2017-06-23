@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea6cc3c9-33ee-4488-9c39-9304f0f9aa9a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/private-isu.iml" afterPath="$PROJECT_DIR$/.idea/private-isu.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ea6cc3c9-33ee-4488-9c39-9304f0f9aa9a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +18,8 @@
       <file leaf-file-name="app.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webapp/ruby/app.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="129" column="11" lean-forward="true" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="11" />
+            <state relative-caret-position="209">
+              <caret line="117" column="73" lean-forward="false" selection-start-line="117" selection-start-column="41" selection-end-line="117" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -42,7 +39,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>isu-posr</find>
       <find>isu-pos</find>
       <find>isu</find>
       <find>isu-post</find>
@@ -71,6 +67,8 @@
       <find>SELECT * FROM `comments` WHERE `post_id` = N ORDER BY `created_at` DESC L</find>
       <find>SELECT * FROM `comments` WHERE `post_id` = N ORDER BY `created_at` DESC</find>
       <find>SELECT * FROM `comments` WHERE `post_id`</find>
+      <find>SELECT * FROM `users` WHERE `id` =</find>
+      <find>SELECT * FROM `users` WHERE `id`</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/private-isu/webapp/node</dir>
@@ -345,12 +343,12 @@
       <workItem from="1497929340256" duration="3056000" />
       <workItem from="1498015793657" duration="65000" />
       <workItem from="1498026757071" duration="8420000" />
-      <workItem from="1498188262178" duration="1423000" />
+      <workItem from="1498188262178" duration="1494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27899000" />
+    <option name="totallyTimeSpent" value="27970000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -581,8 +579,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/ruby/app.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="129" column="11" lean-forward="true" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="11" />
+        <state relative-caret-position="209">
+          <caret line="117" column="73" lean-forward="false" selection-start-line="117" selection-start-column="41" selection-end-line="117" selection-end-column="73" />
           <folding />
         </state>
       </provider>
